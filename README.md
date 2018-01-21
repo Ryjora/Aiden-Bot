@@ -1,2 +1,2 @@
 # Aiden-Bot
-Gives advice, and is friendly. (A test.)
+Lists random facts (Test)
